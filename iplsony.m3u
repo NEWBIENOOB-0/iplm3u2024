@@ -1,0 +1,71 @@
+#EXTM3U
+#EXTINF:-1,English  Ads Free FHD
+https://prod-ent-live-gm.jiocinema.com/hls/live/2100299/hd_akamai_androidmob_avc_eng_ipl_s1_m1060424/master.m3u8
+#EXTINF:-1,Hindi Ads Free FHD
+https://prod-ent-live-gm.jiocinema.com/hls/live/2100323/hd_akamai_androidmob_avc_hin_ipl_s1_m1060424/master.m3u8
+
+#EXTINF:-1,Hindi FHD
+https://prod-ent-live-gm.jiocinema.com/hls/live/2100323/hd_akamai_androidmob_avc_hin_ipl_s1_m1060424/master.m3u8
+
+#EXTINF:-1,Hindi 4K
+https://prod-ent-live-gm.jiocinema.com/hls/live/2100323/hd_akamai_androidmob_avc_hin_ipl_s1_m1060424/master.m3u8
+
+#EXTINF:-1,Marthi FHD
+https://prod-sports-north.jiocinema.com/hls/live/2109768/hd_akamai_iosmob_avc_mar_ipl_s1_m1060424/master.m3u8
+
+#EXTINF:-1,Marthi 4K
+https://prod-sports-north-gm.jiocinema.com/hls/live/2109767/uhd_akamai_atv_avc_mar_ipl_s1_m1060424/master.m3u8
+
+#EXTINF:-1,english FHD
+https://prod-ent-live-gm.jiocinema.com/hls/live/2100299/hd_akamai_androidmob_avc_eng_ipl_s1_m1060424/master.m3u8
+
+#EXTINF:-1,English 4k
+https://prod-ent-live-gm.jiocinema.com/hls/live/2100297/uhd_akamai_atv_avc_eng_ipl_s1_m10560424/master.m3u8
+
+#EXTINF:-1,Telgu FHD
+https://prod-sports-south-gm.jiocinema.com/hls/live/2109718/hd_akamai_androidmob_avc_tel_ipl_s1_m1060424/master.m3u8
+#EXTINF:-1,Telgu 4k
+https://prod-sports-south-gm.jiocinema.com/hls/live/2109717/uhd_akamai_atv_avc_tel_ipl_s1_m1060424/master.m3u8
+
+#EXTINF:-1,Tamil FHD
+https://prod-sports-south-gm.jiocinema.com/hls/live/2109712/hd_akamai_androidmob_avc_tam_ipl_s1_m1060424/master.m3u8
+
+#EXTINF:-1,Tamil 4K
+https://prod-sports-south-gm.jiocinema.com/hls/live/2109711/uhd_akamai_atv_avc_tam_ipl_s1_m1060424/master.m3u8
+
+#EXTINF:-1,Sonic Nickelodeon Hindi
+https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8
+
+#EXTINF:-1,Sony Set Hindi
+https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8?HjFreeTV=SONYSET
+
+#EXTINF:-1,Sony Sab Hindi
+https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8?HjFreeTV=SABHD
+
+#EXTINF:-1,Sony Pal Hindi
+https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8?HjFreeTV=PAL
+
+#EXTINF:-1,Sony Marathi
+https://pubads.g.doubleclick.net/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8?HjFreeTV=MARATHI
+
+#EXTINF:-1,Sony Max Hindi
+https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8?HjFreeTV=MAXHD
+
+#EXTINF:-1,Sony Wah Hindi
+https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8?HjFreeTV=WAH
+
+#EXTINF:-1,Sony Ten 1
+https://pubads.g.doubleclick.net/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8?HjFreeTV=TEN1
+
+#EXTINF:-1,Sony Ten 2
+https://pubads.g.doubleclick.net/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8?HjFreeTV=TEN2
+
+#EXTINF:-1,Sony Ten 3
+https://pubads.g.doubleclick.net/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8?HjFreeTV=TEN3
+
+#EXTINF:-1,Sony Six
+https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8?HjFreeTV=SIX
+
+#EXTINF:-1,Sony Six HD
+https://pubads.g.doubleclick.net/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8?HjFreeTV=SIXHD
+
